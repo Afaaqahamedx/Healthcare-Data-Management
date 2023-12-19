@@ -4,15 +4,16 @@ Embark on a groundbreaking journey in healthcare data management with HealthVaul
 ## Project Goals 🚀
 Efficiently employ Hyperledger Fabric to create a secure healthcare data management solution, emphasizing data privacy and security.
 
-## Development Highlights 👩‍💻
-- JavaScript chaincode development
-- Local IDE verification and testing
-- Deployment using HLF CLI
-- Node.js server-side with fabric-network API and Express
-- Postman validation
-- Intuitive ReactJS frontend design for user-friendliness
-- System Overview 🏥🔐
-- HealthVault leads the way in healthcare data security on Hyperledger Fabric, integrating robust ABAC and PDC. Rigorous testing ensures authentication, authorization, and system resilience. The user-friendly frontend guarantees smooth interaction, establishing HealthVault as a robust solution.
+>Development Highlights 👩‍💻
+  >- JavaScript chaincode development
+  >- Local IDE verification and testing
+  >- Deployment using HLF CLI
+  >- Node.js server-side with fabric-network API and Express
+  >- Postman validation
+  >- Intuitive ReactJS frontend design for user-friendliness
+>  - 
+## System Overview 🏥🔐
+HealthVault leads the way in healthcare data security on Hyperledger Fabric, integrating robust ABAC and PDC. Rigorous testing ensures authentication, authorization, and system resilience. The user-friendly frontend guarantees smooth interaction, establishing HealthVault as a robust solution.
 
 ## Key Features 🌟
 HealthVault ensures data security across a network of hospitals, pharmacies, insurance, and laboratories. Patients have control over and securely share their data, with the private blockchain providing Immutability, Permissioned Access, and Decentralization through chaincode.
